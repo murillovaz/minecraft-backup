@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.42.0.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1663043322991
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663043363709
+  login: 1663038752486
+money: '8620'
+last-account-name: VenomExtreme
+logoutlocation:
+  world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+  world-name: world
+  x: 1738.300000011921
+  y: 67.0
+  z: 569.3000000119209
+  yaw: 29.54705810546875
+  pitch: 5.399858474731445
+lastlocation:
+  world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+  world-name: world
+  x: 2190.1937168565064
+  y: 63.08576431274414
+  z: 221.6270053697959
+  yaw: 24.153902053833008
+  pitch: 67.19976806640625
+homes:
+  a:
+    world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+    world-name: world
+    x: 1742.454739890772
+    y: 67.0
+    z: 572.8754380006374
+    yaw: 63.683380126953125
+    pitch: 21.2999267578125

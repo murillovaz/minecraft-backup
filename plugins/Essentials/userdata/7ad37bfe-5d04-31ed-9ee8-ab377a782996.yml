@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.42.0.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1663043354031
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663043495460
+  login: 1663038756776
+money: '9180'
+last-account-name: Beleco
+lastlocation:
+  world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+  world-name: world
+  x: 1953.300000011921
+  y: 56.0
+  z: 567.274425449037
+  yaw: 72.472900390625
+  pitch: 5.699811935424805
+logoutlocation:
+  world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+  world-name: world
+  x: 1738.635463882379
+  y: 64.0
+  z: 576.3000000119209
+  yaw: 79.224609375
+  pitch: 56.69933319091797
+homes:
+  home:
+    world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+    world-name: world
+    x: 1738.699999988079
+    y: 67.0
+    z: 575.5238640838327
+    yaw: 109.03253173828125
+    pitch: 24.149972915649414

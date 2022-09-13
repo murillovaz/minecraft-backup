@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.42.0.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1663042501165
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663111377740
+  login: 1663111397915
+money: '9930'
+last-account-name: Ziurch
+lastlocation:
+  world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+  world-name: world
+  x: 2211.9372256135807
+  y: 40.0
+  z: 809.1562307456139
+  yaw: -142.2236328125
+  pitch: 15.599803924560547
+homes:
+  home:
+    world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+    world-name: world
+    x: 1825.0959341008606
+    y: 64.0
+    z: 590.1476524936382
+    yaw: 48.86273193359375
+    pitch: 27.150598526000977
+logoutlocation:
+  world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+  world-name: world
+  x: 1852.1224810788597
+  y: 64.0
+  z: 586.7464685363075
+  yaw: -95.0089111328125
+  pitch: 27.900293350219727

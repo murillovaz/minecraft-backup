@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.42.0.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1663043351131
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663043437902
+  login: 1663039799460
+money: '9740'
+last-account-name: SkillerEGO
+logoutlocation:
+  world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+  world-name: world
+  x: 1752.8595347533403
+  y: 65.0
+  z: 572.401236826163
+  yaw: 77.83332061767578
+  pitch: 36.150054931640625
+lastlocation:
+  world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+  world-name: world
+  x: 1889.548413983973
+  y: 63.0
+  z: 565.1091521324386
+  yaw: 74.3834228515625
+  pitch: 13.200215339660645
+homes:
+  home:
+    world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+    world-name: world
+    x: 1738.699999988079
+    y: 67.0
+    z: 574.8719147271111
+    yaw: -74.11548614501953
+    pitch: 38.999996185302734
