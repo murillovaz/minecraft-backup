@@ -221,15 +221,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2022-09-14 02:43:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2022-09-14 02:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2022-09-14 02:43:46 +0000"
     },
     "done": true
   },
@@ -577,6 +577,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2022-09-13 02:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2022-09-14 04:58:29 +0000"
     },
     "done": true
   },
@@ -1888,18 +1894,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2022-09-14 04:27:08 +0000",
       "minecraft:deep_ocean": "2022-09-13 01:52:35 +0000",
       "minecraft:wooded_badlands": "2022-09-13 01:26:42 +0000",
       "minecraft:beach": "2022-09-13 01:41:50 +0000",
+      "minecraft:sparse_jungle": "2022-09-14 04:44:42 +0000",
       "minecraft:river": "2022-09-13 00:20:03 +0000",
       "minecraft:lukewarm_ocean": "2022-09-13 01:51:27 +0000",
       "minecraft:stony_shore": "2022-09-13 04:10:55 +0000",
       "minecraft:dripstone_caves": "2022-09-13 01:16:54 +0000",
+      "minecraft:cold_ocean": "2022-09-14 04:26:27 +0000",
       "minecraft:forest": "2022-09-13 01:32:02 +0000",
       "minecraft:deep_cold_ocean": "2022-09-14 04:20:14 +0000",
       "minecraft:desert": "2022-09-13 00:18:26 +0000",
       "minecraft:ocean": "2022-09-13 01:52:43 +0000",
+      "minecraft:jungle": "2022-09-14 04:54:04 +0000",
       "minecraft:deep_lukewarm_ocean": "2022-09-13 01:52:09 +0000",
+      "minecraft:old_growth_birch_forest": "2022-09-14 04:28:31 +0000",
       "minecraft:savanna": "2022-09-13 01:55:33 +0000",
       "minecraft:plains": "2022-09-13 01:55:11 +0000"
     },

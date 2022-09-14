@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1663118586265
-  login: 1663118586617
+  logout: 1663130970897
+  login: 1663131183546
 money: '9740'
 last-account-name: Ziurch
 lastlocation:
@@ -48,8 +48,8 @@ homes:
 logoutlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 1825.651933923564
-  y: 57.0
-  z: 589.9468486086874
-  yaw: 102.8526611328125
-  pitch: 14.850555419921875
+  x: 1652.715910418873
+  y: 40.0
+  z: -766.2745333117157
+  yaw: 32.404029846191406
+  pitch: 2.3995742797851562
