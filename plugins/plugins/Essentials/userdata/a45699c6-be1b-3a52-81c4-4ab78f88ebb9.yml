@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1663109335481
+  lastteleport: 1663114443981
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1663109471655
-  login: 1663109101906
-money: '10000'
+  login: 1663114364200
+money: '9930'
 last-account-name: mauricio
 lastlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 31.291250641186515
-  y: 87.0
-  z: -7.136632400649375
-  yaw: -24.601806640625
-  pitch: 61.80001449584961
+  x: 1744.1841008486724
+  y: 66.0
+  z: 567.0749999880791
+  yaw: -13.800689697265625
+  pitch: 18.90035057067871
 homes:
   casa:
     world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
