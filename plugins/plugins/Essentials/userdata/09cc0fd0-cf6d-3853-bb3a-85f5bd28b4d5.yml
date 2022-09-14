@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: true
 timestamps:
-  lastteleport: 1663116857214
+  lastteleport: 1663123101615
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: Hoberth
 lastlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 1749.710962629859
+  x: 1749.893635453341
   y: 54.0
-  z: 612.9811075204993
-  yaw: -165.44606018066406
-  pitch: 26.100431442260742
+  z: 613.7146105334606
+  yaw: -164.76498413085938
+  pitch: 48.89970397949219
 logoutlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
