@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1663043363709
-  login: 1663121869637
+  logout: 1663123605206
+  login: 1663123605734
 money: '8570'
 last-account-name: VenomExtreme
 logoutlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 1738.300000011921
-  y: 67.0
-  z: 569.3000000119209
-  yaw: 29.54705810546875
-  pitch: 5.399858474731445
+  x: 1779.818295234678
+  y: 63.0
+  z: 531.0665625860192
+  yaw: -128.545654296875
+  pitch: 8.09946060180664
 lastlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
