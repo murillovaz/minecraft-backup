@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1663125025081
   login: 1663121471232
 money: '10000'
 last-account-name: Clone
@@ -32,8 +32,16 @@ homes:
   casa:
     world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
     world-name: world
-    x: 1834.229858834543
-    y: 64.0
-    z: 613.9801645554792
-    yaw: -5.246934413909912
-    pitch: 26.24984359741211
+    x: 1890.456729523042
+    y: 117.0
+    z: 814.7522551101478
+    yaw: 141.7647705078125
+    pitch: 10.949371337890625
+logoutlocation:
+  world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+  world-name: world
+  x: 1899.926899889348
+  y: 117.0
+  z: 816.2319795154519
+  yaw: 175.22125244140625
+  pitch: -0.9004454612731934
