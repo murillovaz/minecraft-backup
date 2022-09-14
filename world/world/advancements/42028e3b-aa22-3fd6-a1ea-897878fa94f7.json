@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-09-14 21:45:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2022-09-14 02:20:52 +0000"
@@ -379,6 +385,7 @@
       "beef": "2022-09-13 04:10:32 +0000",
       "apple": "2022-09-13 23:10:17 +0000",
       "mutton": "2022-09-13 04:03:29 +0000",
+      "bread": "2022-09-14 21:50:14 +0000",
       "rotten_flesh": "2022-09-13 04:20:58 +0000",
       "suspicious_stew": "2022-09-14 05:01:10 +0000",
       "cooked_chicken": "2022-09-13 04:37:09 +0000",
@@ -419,6 +426,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2022-09-14 00:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2022-09-14 21:45:38 +0000"
     },
     "done": true
   },
@@ -936,7 +949,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-09-14 21:45:32 +0000",
       "minecraft:skeleton": "2022-09-14 01:34:57 +0000",
+      "minecraft:ravager": "2022-09-14 21:45:23 +0000",
       "minecraft:spider": "2022-09-13 04:01:23 +0000",
       "minecraft:creeper": "2022-09-13 04:40:24 +0000",
       "minecraft:witch": "2022-09-14 01:39:53 +0000",
@@ -1292,6 +1307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2022-09-14 21:45:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2022-09-14 04:26:48 +0000"
@@ -1364,6 +1385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2022-09-14 21:45:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2022-09-13 03:53:12 +0000"
@@ -1421,6 +1448,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2022-09-14 02:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2022-09-14 21:45:38 +0000"
     },
     "done": true
   },
@@ -1601,6 +1634,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2022-09-14 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2022-09-14 21:45:40 +0000"
     },
     "done": true
   },
