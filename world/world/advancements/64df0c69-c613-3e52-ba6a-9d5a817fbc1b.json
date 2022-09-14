@@ -1,0 +1,21 @@
+{
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2022-09-14 02:15:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-09-14 02:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2022-09-14 02:11:11 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

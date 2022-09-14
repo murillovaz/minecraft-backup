@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.42.0.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1663121880913
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 0
+  login: 1663121471232
+money: '10000'
+last-account-name: Clone
+lastlocation:
+  world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+  world-name: world
+  x: 114.72467280168028
+  y: 83.0
+  z: 70.76591196568624
+  yaw: 67.17965698242188
+  pitch: 23.69973373413086
+homes:
+  casa:
+    world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+    world-name: world
+    x: 1834.229858834543
+    y: 64.0
+    z: 613.9801645554792
+    yaw: -5.246934413909912
+    pitch: 26.24984359741211
