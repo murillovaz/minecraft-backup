@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1663043495460
-  login: 1663118437899
+  logout: 1663118583704
+  login: 1663118598929
 money: '9180'
 last-account-name: Beleco
 lastlocation:
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 1738.635463882379
-  y: 64.0
-  z: 576.3000000119209
-  yaw: 79.224609375
-  pitch: 56.69933319091797
+  x: 1829.5946087431464
+  y: 60.0
+  z: 589.2510825859542
+  yaw: 169.884765625
+  pitch: 4.349894046783447
 homes:
   home:
     world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
