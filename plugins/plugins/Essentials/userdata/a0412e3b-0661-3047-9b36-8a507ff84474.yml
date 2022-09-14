@@ -11,14 +11,14 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1663043322991
+  lastteleport: 1663122535081
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1663043363709
   login: 1663121869637
-money: '8620'
+money: '8570'
 last-account-name: VenomExtreme
 logoutlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
@@ -31,11 +31,11 @@ logoutlocation:
 lastlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 2190.1937168565064
-  y: 63.08576431274414
-  z: 221.6270053697959
-  yaw: 24.153902053833008
-  pitch: 67.19976806640625
+  x: 1734.6629511965386
+  y: 15.0
+  z: 579.3000000119209
+  yaw: -7.808793067932129
+  pitch: 20.999589920043945
 homes:
   a:
     world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1

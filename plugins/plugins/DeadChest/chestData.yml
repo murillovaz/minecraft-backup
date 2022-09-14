@@ -1,1 +1,90 @@
-chestData: []
+chestData:
+- ==: ChestData
+  playerUUID: a0412e3b-0661-3047-9b36-8a507ff84474
+  holographicTimer: world;1777.5;5.799999952316284;492.5
+  worldName: world
+  as_timer_id: 8613918e-a6ac-4ed4-8c9f-d5e659945e91
+  playerName: VenomExtreme
+  isInfinity: false
+  as_owner_id: 064ca065-17e7-4831-8a4e-076fb8c529dc
+  chestDate: 2022-09-14T02:26:52.959Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: IRON_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 221
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: IRON_SWORD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: IRON_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 43
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: COBBLESTONE
+    amount: 63
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: ANDESITE
+    amount: 19
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: DIORITE
+    amount: 31
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: COAL
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: COBBLED_DEEPSLATE
+    amount: 25
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: GRAVEL
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: COBBLESTONE
+    amount: 27
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: TORCH
+  chestLocation: world;1777.0;5.0;492.0

@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1663042501165
+  lastteleport: 1663122606584
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1663118586265
   login: 1663118586617
-money: '9930'
+money: '9860'
 last-account-name: Ziurch
 lastlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 2211.9372256135807
-  y: 40.0
-  z: 809.1562307456139
-  yaw: -142.2236328125
-  pitch: 15.599803924560547
+  x: 1844.1095234149445
+  y: 63.9375
+  z: 598.4071474200551
+  yaw: 102.89730834960938
+  pitch: 9.30017375946045
 homes:
   home:
     world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
