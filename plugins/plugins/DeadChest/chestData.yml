@@ -1,1 +1,71 @@
-chestData: []
+chestData:
+- ==: ChestData
+  playerUUID: 42028e3b-aa22-3fd6-a1ea-897878fa94f7
+  holographicTimer: world;2226.5;44.799999952316284;-296.5
+  worldName: world
+  as_timer_id: 3ddf1c19-d104-4f20-8927-efcc1007f1d0
+  playerName: Ziurch
+  isInfinity: false
+  as_owner_id: bd887a88-e45f-4c90-bf0a-fc78c305e8bf
+  chestDate: 2022-09-14T05:02:52.631Z
+  inventory:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: BOWL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: SUSPICIOUS_STEW
+    meta:
+      ==: ItemMeta
+      meta-type: SUSPICIOUS_STEW
+      effects:
+      - ==: PotionEffect
+        effect: 15
+        duration: 140
+        amplifier: 0
+        ambient: true
+        has-particles: true
+        has-icon: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2975
+    type: ROTTEN_FLESH
+    amount: 8
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: world;2226.0;44.0;-297.0

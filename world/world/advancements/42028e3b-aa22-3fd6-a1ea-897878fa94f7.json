@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2022-09-14 05:01:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2022-09-13 03:54:23 +0000"
@@ -374,6 +380,7 @@
       "apple": "2022-09-13 23:10:17 +0000",
       "mutton": "2022-09-13 04:03:29 +0000",
       "rotten_flesh": "2022-09-13 04:20:58 +0000",
+      "suspicious_stew": "2022-09-14 05:01:10 +0000",
       "cooked_chicken": "2022-09-13 04:37:09 +0000",
       "carrot": "2022-09-14 02:18:21 +0000"
     },
@@ -1677,6 +1684,7 @@
       "minecraft:lukewarm_ocean": "2022-09-14 04:28:18 +0000",
       "minecraft:stony_shore": "2022-09-13 04:04:56 +0000",
       "minecraft:dripstone_caves": "2022-09-14 03:58:07 +0000",
+      "minecraft:cold_ocean": "2022-09-14 04:59:51 +0000",
       "minecraft:forest": "2022-09-13 03:53:02 +0000",
       "minecraft:deep_cold_ocean": "2022-09-14 04:47:36 +0000",
       "minecraft:desert": "2022-09-13 03:48:46 +0000",
