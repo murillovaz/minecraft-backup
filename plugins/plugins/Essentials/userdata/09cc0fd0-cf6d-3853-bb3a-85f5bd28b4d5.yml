@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.42.0.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1663081528613
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663113304303
+  login: 1663108383301
+money: '60'
+last-account-name: Hoberth
+lastlocation:
+  world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+  world-name: world
+  x: 1767.9238310805788
+  y: 21.0
+  z: 569.4652836139974
+  yaw: 91.871337890625
+  pitch: 76.49961853027344
+logoutlocation:
+  world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+  world-name: world
+  x: 1749.7172412070204
+  y: 64.875
+  z: 605.5332279578344
+  yaw: -151.0524444580078
+  pitch: 33.8999137878418
+homes:
+  casa:
+    world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+    world-name: world
+    x: 1738.300000011921
+    y: 67.0
+    z: 575.7153904841066
+    yaw: -73.56572723388672
+    pitch: 30.599510192871094

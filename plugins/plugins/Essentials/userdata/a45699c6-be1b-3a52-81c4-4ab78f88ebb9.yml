@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.42.0.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1663109335481
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663109471655
+  login: 1663109101906
+money: '10000'
+last-account-name: mauricio
+lastlocation:
+  world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+  world-name: world
+  x: 31.291250641186515
+  y: 87.0
+  z: -7.136632400649375
+  yaw: -24.601806640625
+  pitch: 61.80001449584961
+homes:
+  casa:
+    world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+    world-name: world
+    x: 1752.300000011921
+    y: 64.0
+    z: 575.1607344146472
+    yaw: 67.199462890625
+    pitch: 35.399959564208984
+logoutlocation:
+  world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+  world-name: world
+  x: 1744.777053888142
+  y: 66.0
+  z: 562.9250000119209
+  yaw: -13.05120849609375
+  pitch: 43.80009078979492

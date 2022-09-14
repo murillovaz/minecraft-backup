@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.42.0.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1663111812398
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1663111820296
+  login: 1663109893994
+money: '9930'
+last-account-name: robson2
+lastlocation:
+  world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+  world-name: world
+  x: 135.9203004250984
+  y: 75.0
+  z: 49.93682543525006
+  yaw: -31.2799072265625
+  pitch: 12.351106643676758
+logoutlocation:
+  world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+  world-name: world
+  x: 1852.5
+  y: 64.0
+  z: 587.5
+  yaw: -94.506591796875
+  pitch: 33.450225830078125

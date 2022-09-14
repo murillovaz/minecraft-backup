@@ -1,0 +1,29 @@
+{
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2022-09-13 22:49:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-09-13 22:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2022-09-13 22:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2022-09-13 22:45:01 +0000",
+      "minecraft:savanna": "2022-09-13 22:48:55 +0000",
+      "minecraft:plains": "2022-09-13 22:49:08 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
