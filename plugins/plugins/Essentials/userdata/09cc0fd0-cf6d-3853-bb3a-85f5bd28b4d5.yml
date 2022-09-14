@@ -4,14 +4,14 @@ godmode: false
 muted: false
 jailed: false
 ip-address: 10.42.0.148
-afk: false
+afk: true
 socialspy: false
 npc: false
 powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: true
 timestamps:
-  lastteleport: 1663116546653
+  lastteleport: 1663116857214
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: Hoberth
 lastlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 1750.7446360419667
+  x: 1749.710962629859
   y: 54.0
-  z: 617.0280767306389
-  yaw: 6.669921875
-  pitch: 24.449743270874023
+  z: 612.9811075204993
+  yaw: -165.44606018066406
+  pitch: 26.100431442260742
 logoutlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world

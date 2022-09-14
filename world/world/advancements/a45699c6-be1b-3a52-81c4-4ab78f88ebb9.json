@@ -232,6 +232,7 @@
       "chicken": "2022-09-14 00:22:15 +0000",
       "beef": "2022-09-14 00:31:23 +0000",
       "porkchop": "2022-09-14 00:22:04 +0000",
+      "mutton": "2022-09-14 00:48:20 +0000",
       "rotten_flesh": "2022-09-13 22:49:17 +0000"
     },
     "done": false
@@ -257,6 +258,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2022-09-14 00:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2022-09-14 00:47:40 +0000"
     },
     "done": true
   },
@@ -563,6 +570,12 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2022-09-14 00:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2022-09-14 00:47:40 +0000"
     },
     "done": true
   },
