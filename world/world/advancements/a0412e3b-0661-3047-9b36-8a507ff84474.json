@@ -894,6 +894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2022-09-15 22:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2022-09-13 01:51:42 +0000"
@@ -1071,6 +1077,7 @@
       "minecraft:beach": "2022-09-13 01:41:55 +0000",
       "minecraft:sparse_jungle": "2022-09-13 01:44:33 +0000",
       "minecraft:river": "2022-09-13 01:27:17 +0000",
+      "minecraft:stony_shore": "2022-09-15 22:22:21 +0000",
       "minecraft:dripstone_caves": "2022-09-13 01:18:45 +0000",
       "minecraft:forest": "2022-09-13 01:31:29 +0000",
       "minecraft:deep_cold_ocean": "2022-09-13 04:26:43 +0000",
@@ -1850,6 +1857,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2022-09-13 04:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2022-09-15 22:10:16 +0000"
     },
     "done": true
   },
