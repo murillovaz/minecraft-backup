@@ -11,14 +11,14 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1663280795434
+  lastteleport: 1663284333972
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1663280748376
   login: 1663280753016
-money: '130'
+money: '9930'
 last-account-name: FilipeRag
 logoutlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
@@ -31,8 +31,8 @@ logoutlocation:
 lastlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 0.0
-  y: 72.0
-  z: 0.0
-  yaw: 16.950014114379883
-  pitch: 6.000001907348633
+  x: 1765.840517127962
+  y: 35.0
+  z: 649.1568893979572
+  yaw: -105.14013671875
+  pitch: 69.90045166015625
