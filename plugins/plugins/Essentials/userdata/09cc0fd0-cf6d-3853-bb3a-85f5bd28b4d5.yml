@@ -9,33 +9,33 @@ socialspy: false
 npc: false
 powertoolsenabled: true
 accepting-pay: true
-baltop-exempt: true
+baltop-exempt: false
 timestamps:
-  lastteleport: 1663221354272
+  lastteleport: 1663222770322
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1663213363651
+  logout: 1663222928598
   login: 1663213727726
-money: '7250'
+money: '7130'
 last-account-name: Hoberth
 lastlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 1749.8822156661581
-  y: 54.0
-  z: 616.9250000119209
-  yaw: 36.7506217956543
-  pitch: 28.49994659423828
+  x: 1812.300000011921
+  y: 19.0
+  z: 557.4449648682316
+  yaw: 93.55902862548828
+  pitch: -11.399770736694336
 logoutlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 1827.3205567050086
-  y: 64.875
-  z: 601.8000467022298
-  yaw: 10.734182357788086
-  pitch: 23.09973907470703
+  x: 1745.957174225162
+  y: 58.0
+  z: 527.6945788733534
+  yaw: -167.9273223876953
+  pitch: 19.19951629638672
 homes:
   casa:
     world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
