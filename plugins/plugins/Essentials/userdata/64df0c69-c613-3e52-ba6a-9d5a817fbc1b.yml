@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1663121880913
+  lastteleport: 1663203052872
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1663125025081
   login: 1663201706076
-money: '10000'
+money: '9950'
 last-account-name: Clone
 lastlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 114.72467280168028
-  y: 83.0
-  z: 70.76591196568624
-  yaw: 67.17965698242188
-  pitch: 23.69973373413086
+  x: 1730.9403359998053
+  y: 66.0
+  z: 681.2669969458068
+  yaw: 82.66642761230469
+  pitch: 19.949487686157227
 homes:
   casa:
     world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
