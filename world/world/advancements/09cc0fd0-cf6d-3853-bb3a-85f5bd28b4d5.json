@@ -1699,6 +1699,7 @@
     "criteria": {
       "cooked_porkchop": "2022-09-13 02:25:14 +0000",
       "cooked_beef": "2022-09-13 04:52:25 +0000",
+      "beef": "2022-09-15 01:43:53 +0000",
       "apple": "2022-09-13 01:35:37 +0000",
       "bread": "2022-09-13 01:26:17 +0000",
       "golden_apple": "2022-09-13 01:16:13 +0000",
@@ -2261,6 +2262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2022-09-15 01:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2022-09-13 01:16:28 +0000"
@@ -2684,6 +2691,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2022-09-14 23:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2022-09-15 01:49:02 +0000"
     },
     "done": true
   },
