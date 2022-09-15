@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2022-09-15 02:07:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-09-14 02:37:47 +0000"
@@ -542,6 +548,7 @@
       "minecraft:spider": "2022-09-13 04:01:23 +0000",
       "minecraft:piglin_brute": "2022-09-14 22:34:23 +0000",
       "minecraft:creeper": "2022-09-13 04:40:24 +0000",
+      "minecraft:slime": "2022-09-15 02:12:53 +0000",
       "minecraft:zombified_piglin": "2022-09-14 22:34:28 +0000",
       "minecraft:witch": "2022-09-14 01:39:53 +0000",
       "minecraft:piglin": "2022-09-14 22:34:21 +0000",
@@ -1243,6 +1250,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2022-09-14 00:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2022-09-15 02:09:05 +0000"
     },
     "done": true
   },
@@ -2109,6 +2122,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-09-13 03:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2022-09-15 02:09:05 +0000"
     },
     "done": true
   },
