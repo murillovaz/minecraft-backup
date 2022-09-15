@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1663240922972
+  lastteleport: 1663242909272
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1663239236570
-  login: 1663239241652
-money: '9000'
+  logout: 1663243378445
+  login: 1663243383635
+money: '8950'
 last-account-name: Benardinho
 lastlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 1747.699999988079
-  y: 62.875
-  z: 529.6999999880791
-  yaw: -14.546142578125
-  pitch: -21.899709701538086
+  x: 1749.8346139977905
+  y: 62.5
+  z: 529.8258267664254
+  yaw: 115.68341064453125
+  pitch: 15.750324249267578
 logoutlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 1749.631613489419
-  y: 62.5
-  z: 531.2866122709268
-  yaw: 135.5337371826172
-  pitch: 16.949920654296875
+  x: 1747.9354089952526
+  y: 65.0
+  z: 526.0854732207684
+  yaw: 48.88117218017578
+  pitch: 42.89926528930664
 homes:
   deserto:
     world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
