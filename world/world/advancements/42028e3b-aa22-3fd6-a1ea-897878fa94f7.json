@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2022-09-15 05:24:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2022-09-14 22:37:41 +0000"
@@ -647,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2022-09-15 05:24:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2022-09-13 23:05:43 +0000"
@@ -716,6 +728,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-09-14 22:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2022-09-15 05:18:13 +0000"
     },
     "done": true
   },
@@ -1442,6 +1460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2022-09-15 05:24:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2022-09-13 03:54:23 +0000"
@@ -1469,6 +1493,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2022-09-14 22:05:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2022-09-15 04:59:14 +0000"
     },
     "done": true
   },
@@ -2759,6 +2789,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2022-09-14 00:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2022-09-15 05:24:39 +0000"
     },
     "done": true
   },
