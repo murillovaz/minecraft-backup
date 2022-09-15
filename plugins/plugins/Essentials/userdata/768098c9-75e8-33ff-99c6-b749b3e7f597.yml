@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1663211593602
-  login: 1663211593730
+  logout: 1663213363582
+  login: 1663213733893
 money: '9650'
 last-account-name: Benardinho
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 1745.6667823072164
-  y: 63.0
-  z: 527.3550505070515
-  yaw: -159.89724731445312
-  pitch: 12.599262237548828
+  x: 1750.9489645996
+  y: 58.0
+  z: 522.2739765374197
+  yaw: -20.874847412109375
+  pitch: 28.34931755065918

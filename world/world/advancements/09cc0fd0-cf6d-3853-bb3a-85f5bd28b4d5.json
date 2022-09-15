@@ -41,15 +41,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2022-09-15 02:28:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2022-09-15 02:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2022-09-15 02:28:14 +0000"
     },
     "done": true
   },
@@ -215,15 +215,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2022-09-15 02:28:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2022-09-14 23:58:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-09-15 02:28:14 +0000"
     },
     "done": true
   },
@@ -1743,15 +1743,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2022-09-15 02:36:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2022-09-15 02:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2022-09-15 02:36:52 +0000"
     },
     "done": true
   },
@@ -1800,7 +1800,8 @@
       "bread": "2022-09-13 01:26:17 +0000",
       "golden_apple": "2022-09-13 01:16:13 +0000",
       "rotten_flesh": "2022-09-13 01:36:03 +0000",
-      "golden_carrot": "2022-09-14 22:38:15 +0000"
+      "golden_carrot": "2022-09-14 22:38:15 +0000",
+      "carrot": "2022-09-15 03:52:41 +0000"
     },
     "done": false
   },
@@ -2832,15 +2833,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2022-09-15 02:28:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2022-09-15 01:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-09-15 02:28:14 +0000"
     },
     "done": true
   },
