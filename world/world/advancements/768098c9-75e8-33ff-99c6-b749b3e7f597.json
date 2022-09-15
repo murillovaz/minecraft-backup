@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2022-09-15 06:56:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2022-09-14 02:06:50 +0000"
@@ -786,6 +792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2022-09-15 06:56:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2022-09-14 01:38:15 +0000"
@@ -1034,13 +1046,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2022-09-15 06:59:54 +0000",
       "minecraft:beach": "2022-09-13 04:44:26 +0000",
       "minecraft:river": "2022-09-13 04:34:20 +0000",
+      "minecraft:lukewarm_ocean": "2022-09-15 06:59:25 +0000",
       "minecraft:stony_shore": "2022-09-15 05:09:01 +0000",
       "minecraft:dripstone_caves": "2022-09-14 03:59:55 +0000",
       "minecraft:forest": "2022-09-14 01:55:34 +0000",
       "minecraft:desert": "2022-09-13 04:31:31 +0000",
       "minecraft:ocean": "2022-09-14 01:58:45 +0000",
+      "minecraft:jungle": "2022-09-15 07:00:53 +0000",
+      "minecraft:deep_lukewarm_ocean": "2022-09-15 07:00:13 +0000",
       "minecraft:savanna": "2022-09-13 04:32:42 +0000",
       "minecraft:plains": "2022-09-13 04:32:32 +0000"
     },
