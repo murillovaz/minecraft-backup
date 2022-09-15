@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2022-09-14 23:47:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-09-13 01:12:11 +0000"
@@ -191,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-09-14 23:59:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2022-09-13 02:25:28 +0000"
@@ -200,6 +212,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2022-09-13 03:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2022-09-14 23:57:43 +0000"
     },
     "done": true
   },
@@ -266,6 +284,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2022-09-13 02:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-09-14 23:59:42 +0000"
     },
     "done": true
   },
@@ -555,6 +579,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2022-09-13 02:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2022-09-14 23:47:02 +0000"
     },
     "done": true
   },
@@ -982,6 +1012,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2022-09-13 04:26:12 +0000",
       "minecraft:wooded_badlands": "2022-09-13 01:26:06 +0000",
+      "minecraft:bamboo_jungle": "2022-09-14 23:45:05 +0000",
       "minecraft:badlands": "2022-09-13 01:26:35 +0000",
       "minecraft:beach": "2022-09-13 01:41:55 +0000",
       "minecraft:sparse_jungle": "2022-09-13 01:44:33 +0000",
@@ -1123,6 +1154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2022-09-14 23:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2022-09-14 22:39:03 +0000"
@@ -1132,6 +1169,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2022-09-13 01:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2022-09-14 23:48:30 +0000"
     },
     "done": true
   },
@@ -1198,6 +1241,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2022-09-13 01:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2022-09-14 23:48:30 +0000"
     },
     "done": true
   },
@@ -1418,6 +1467,8 @@
       "cooked_beef": "2022-09-13 02:54:18 +0000",
       "potato": "2022-09-13 04:24:34 +0000",
       "bread": "2022-09-13 01:28:42 +0000",
+      "salmon": "2022-09-14 23:56:15 +0000",
+      "melon_slice": "2022-09-14 23:47:53 +0000",
       "cooked_salmon": "2022-09-13 01:52:26 +0000"
     },
     "done": false
@@ -1500,6 +1551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-09-14 23:59:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2022-09-13 01:22:26 +0000"
@@ -1533,6 +1590,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2022-09-13 01:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-09-14 23:59:42 +0000"
     },
     "done": true
   },
@@ -1938,6 +2001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2022-09-14 23:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2022-09-13 01:32:42 +0000"
@@ -2013,6 +2082,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2022-09-13 02:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-09-14 23:59:42 +0000"
     },
     "done": true
   },
@@ -2319,6 +2394,18 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2022-09-13 01:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2022-09-14 23:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-09-14 23:59:42 +0000"
     },
     "done": true
   },
