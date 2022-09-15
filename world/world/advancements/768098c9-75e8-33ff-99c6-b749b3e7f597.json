@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2022-09-15 10:37:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-09-13 04:35:16 +0000"
@@ -561,10 +567,12 @@
     "criteria": {
       "minecraft:pillager": "2022-09-14 03:47:22 +0000",
       "minecraft:skeleton": "2022-09-14 04:03:32 +0000",
+      "minecraft:magma_cube": "2022-09-15 10:37:54 +0000",
       "minecraft:spider": "2022-09-13 04:39:18 +0000",
       "minecraft:creeper": "2022-09-15 04:40:46 +0000",
       "minecraft:witch": "2022-09-15 04:29:50 +0000",
       "minecraft:cave_spider": "2022-09-14 04:09:57 +0000",
+      "minecraft:piglin": "2022-09-15 10:37:44 +0000",
       "minecraft:zombie": "2022-09-13 05:03:00 +0000",
       "minecraft:drowned": "2022-09-14 18:02:55 +0000"
     },
@@ -1313,6 +1321,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2022-09-15 10:37:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2022-09-14 02:19:07 +0000"
@@ -1433,6 +1447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2022-09-15 10:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2022-09-14 02:24:53 +0000"
@@ -1496,6 +1516,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2022-09-15 03:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-09-15 10:37:13 +0000"
     },
     "done": true
   },
@@ -1634,6 +1660,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2022-09-14 17:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2022-09-15 10:38:39 +0000"
     },
     "done": true
   },
@@ -2019,6 +2051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2022-09-15 10:38:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2022-09-14 20:54:42 +0000"
@@ -2052,6 +2090,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2022-09-14 04:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-09-15 10:37:13 +0000"
     },
     "done": true
   },
