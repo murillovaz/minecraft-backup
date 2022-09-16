@@ -601,6 +601,7 @@
       "minecraft:spider": "2022-09-13 02:22:20 +0000",
       "minecraft:creeper": "2022-09-13 03:22:05 +0000",
       "minecraft:slime": "2022-09-13 04:09:22 +0000",
+      "minecraft:witch": "2022-09-16 21:58:00 +0000",
       "minecraft:cave_spider": "2022-09-13 03:14:16 +0000",
       "minecraft:enderman": "2022-09-13 02:29:20 +0000",
       "minecraft:zombie": "2022-09-13 01:30:50 +0000",
@@ -986,6 +987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2022-09-16 21:58:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2022-09-16 18:59:18 +0000"
@@ -1127,6 +1134,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-09-14 02:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2022-09-16 21:48:35 +0000"
     },
     "done": true
   },
@@ -2167,6 +2180,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2022-09-14 02:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2022-09-16 21:58:02 +0000"
     },
     "done": true
   },
