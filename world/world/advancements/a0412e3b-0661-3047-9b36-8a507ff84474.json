@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2022-09-16 04:48:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2022-09-14 02:36:53 +0000"
@@ -876,6 +882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2022-09-16 04:48:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2022-09-13 04:00:25 +0000"
@@ -939,6 +951,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2022-09-13 01:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2022-09-16 04:48:23 +0000"
     },
     "done": true
   },
@@ -1110,6 +1128,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-09-15 21:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2022-09-16 04:48:23 +0000"
     },
     "done": true
   },
@@ -1383,6 +1407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2022-09-16 04:48:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2022-09-13 04:04:38 +0000"
@@ -1566,6 +1596,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2022-09-13 04:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2022-09-16 04:46:33 +0000"
     },
     "done": true
   },
@@ -2139,6 +2175,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2022-09-13 01:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2022-09-16 04:46:33 +0000"
     },
     "done": true
   },

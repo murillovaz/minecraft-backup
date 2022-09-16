@@ -377,21 +377,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2022-09-16 04:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2022-09-14 02:19:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
-    "criteria": {
-      "has_prismarine_bricks": "2022-09-16 04:17:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/prismarine_wall": {
     "criteria": {
       "has_prismarine": "2022-09-16 04:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2022-09-16 04:17:10 +0000"
     },
     "done": true
   },
@@ -615,6 +621,7 @@
     "criteria": {
       "minecraft:pillager": "2022-09-14 03:47:22 +0000",
       "minecraft:skeleton": "2022-09-14 04:03:32 +0000",
+      "minecraft:elder_guardian": "2022-09-16 04:46:11 +0000",
       "minecraft:magma_cube": "2022-09-15 10:37:54 +0000",
       "minecraft:spider": "2022-09-13 04:39:18 +0000",
       "minecraft:creeper": "2022-09-15 04:40:46 +0000",
@@ -1160,6 +1167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2022-09-16 04:46:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2022-09-16 04:17:10 +0000"
@@ -1466,6 +1479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-09-16 04:46:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2022-09-15 07:31:05 +0000"
@@ -1685,6 +1704,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2022-09-14 17:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-09-16 04:46:11 +0000"
     },
     "done": true
   },

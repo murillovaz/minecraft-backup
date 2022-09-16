@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1663300496009
+  lastteleport: 1663304147482
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1663285700918
   login: 1663292846948
-money: '5610'
+money: '5390'
 last-account-name: Hoberth
 lastlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 1750.237500011921
-  y: 64.0
-  z: 605.776730159132
-  yaw: 117.60088348388672
-  pitch: 54.00007629394531
+  x: 1778.925000011921
+  y: 63.0
+  z: 574.9708299443979
+  yaw: 162.2060546875
+  pitch: 8.549858093261719
 logoutlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
@@ -56,8 +56,8 @@ homes:
   bruxa:
     world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
     world-name: world
-    x: -472.4646442568679
-    y: 63.0
-    z: 65.56659760063472
-    yaw: -114.18414306640625
-    pitch: 6.600671768188477
+    x: -460.7385167312689
+    y: 66.0
+    z: 59.85632138542591
+    yaw: 72.14572143554688
+    pitch: 22.199687957763672
