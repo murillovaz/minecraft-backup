@@ -1281,6 +1281,7 @@
       "minecraft:lukewarm_ocean": "2022-09-15 06:59:25 +0000",
       "minecraft:stony_shore": "2022-09-15 05:09:01 +0000",
       "minecraft:dripstone_caves": "2022-09-14 03:59:55 +0000",
+      "minecraft:swamp": "2022-09-16 06:14:01 +0000",
       "minecraft:forest": "2022-09-14 01:55:34 +0000",
       "minecraft:deep_cold_ocean": "2022-09-16 04:09:41 +0000",
       "minecraft:desert": "2022-09-13 04:31:31 +0000",
@@ -2531,6 +2532,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-09-14 17:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "cod_bucket": "2022-09-16 06:47:06 +0000"
     },
     "done": true
   },
