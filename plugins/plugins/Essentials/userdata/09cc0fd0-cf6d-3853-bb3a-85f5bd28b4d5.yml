@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1663291467415
+  lastteleport: 1663293607143
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1663285700918
-  login: 1663285705396
-money: '6510'
+  login: 1663292846948
+money: '6410'
 last-account-name: Hoberth
 lastlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 2162.7727770647216
-  y: 85.0
-  z: 2671.008545273725
-  yaw: -125.9532470703125
-  pitch: 8.55013656616211
+  x: 1822.302125564128
+  y: 57.0
+  z: 580.4849350578119
+  yaw: 5.983642578125
+  pitch: 0.14948059618473053
 logoutlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
@@ -45,14 +45,6 @@ homes:
     z: 575.7153904841066
     yaw: -73.56572723388672
     pitch: 30.599510192871094
-  mina:
-    world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
-    world-name: world
-    x: 1770.4373709137349
-    y: 13.0
-    z: 794.1469687727008
-    yaw: -137.08685302734375
-    pitch: 31.350313186645508
   fort:
     world: a51be5d8-29dc-45b2-94f8-addeb169efd8
     world-name: world_nether
@@ -61,3 +53,11 @@ homes:
     z: -105.6908729920217
     yaw: -74.048583984375
     pitch: 50.25050735473633
+  bruxa:
+    world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+    world-name: world
+    x: -485.56158675421227
+    y: 63.0
+    z: 90.38139518967778
+    yaw: -137.63983154296875
+    pitch: -10.49998664855957
