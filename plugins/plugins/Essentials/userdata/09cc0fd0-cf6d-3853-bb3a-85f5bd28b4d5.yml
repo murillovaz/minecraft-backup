@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1663312311561
+  logout: 1663321700993
   login: 1663312939142
 money: '4950'
 last-account-name: Hoberth
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: -494.3893266311097
+  x: -494.33622555810905
   y: 184.0
-  z: 67.18349782776157
-  yaw: -85.8592529296875
-  pitch: 52.649620056152344
+  z: 67.55334072805003
+  yaw: -91.04714965820312
+  pitch: 78.44988250732422
 homes:
   casa:
     world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
