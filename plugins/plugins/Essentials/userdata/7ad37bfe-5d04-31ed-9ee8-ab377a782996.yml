@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1663299160140
+  lastteleport: 1663299944704
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1663124344132
+  logout: 1663300102375
   login: 1663296159304
-money: '8300'
+money: '8090'
 last-account-name: Beleco
 lastlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: -461.3814371441499
-  y: 64.0
-  z: 64.35509423587794
-  yaw: -96.3284912109375
-  pitch: 2.8496508598327637
+  x: 1396.300000011921
+  y: -55.0
+  z: 760.6476979100455
+  yaw: -96.50494384765625
+  pitch: 23.699663162231445
 logoutlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 1725.5276028915
-  y: 66.0
-  z: 550.3000000119209
-  yaw: -177.9031982421875
-  pitch: 4.50039005279541
+  x: 1807.473624689626
+  y: 26.0
+  z: 605.2167906726952
+  yaw: -44.43074417114258
+  pitch: 5.250672817230225
 homes:
   home:
     world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
