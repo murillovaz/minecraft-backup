@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1663299818038
+  lastteleport: 1663302614119
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1663281475727
   login: 1663292854103
-money: '7540'
+money: '7370'
 last-account-name: Ziurch
 lastlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 2203.699999988079
-  y: -21.0
-  z: 771.0602833347494
-  yaw: -140.3028564453125
-  pitch: 34.20056915283203
+  x: 1824.3975632834745
+  y: 57.0
+  z: 588.6664567329109
+  yaw: -15.940673828125
+  pitch: -0.749361515045166
 homes:
   home:
     world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
@@ -45,14 +45,14 @@ homes:
     z: 793.3445598916757
     yaw: -73.93775939941406
     pitch: 32.70038604736328
-  neather:
-    world: a51be5d8-29dc-45b2-94f8-addeb169efd8
-    world-name: world_nether
-    x: 213.42421042760495
-    y: 73.0
-    z: 78.55982844959674
-    yaw: -53.88525390625
-    pitch: 37.20188522338867
+  geode:
+    world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+    world-name: world
+    x: 1834.1857933990934
+    y: -51.0
+    z: 507.02097792978424
+    yaw: -162.9209442138672
+    pitch: 40.50363540649414
 logoutlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world

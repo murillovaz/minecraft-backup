@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1663299744332
+  lastteleport: 1663301972219
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1663043437902
+  logout: 1663302047927
   login: 1663295961405
-money: '9360'
+money: '9240'
 last-account-name: SkillerEGO
 logoutlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 1752.8595347533403
-  y: 65.0
-  z: 572.401236826163
-  yaw: 77.83332061767578
-  pitch: 36.150054931640625
+  x: 2310.706822549654
+  y: -42.0
+  z: 758.4467480111105
+  yaw: 86.348876953125
+  pitch: -0.1503598839044571
 lastlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 1421.6843814080546
-  y: -11.0
-  z: 742.370998107246
-  yaw: -77.73625183105469
-  pitch: 36.60000228881836
+  x: 1827.699999988079
+  y: 66.5
+  z: 591.3000000119209
+  yaw: -107.40611267089844
+  pitch: 21.14993667602539
 homes:
   home:
     world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
