@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1663208965922
+  lastteleport: 1663299114031
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1663209016993
-  login: 1663296115654
-money: '9590'
+  logout: 1663298579433
+  login: 1663298704823
+money: '9540'
 last-account-name: Clone
 lastlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 1814.5376394333864
-  y: 13.0
-  z: 605.3000000119209
-  yaw: 34.46834945678711
-  pitch: 50.3995475769043
+  x: 1727.177600693907
+  y: 68.0
+  z: 908.9555256177356
+  yaw: -67.83462524414062
+  pitch: 27.748552322387695
 homes:
   casa:
     world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
@@ -40,8 +40,8 @@ homes:
 logoutlocation:
   world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
   world-name: world
-  x: 1891.5378324466626
-  y: 117.0
-  z: 815.6634044668567
-  yaw: 57.01446533203125
-  pitch: 56.24945831298828
+  x: 1869.9127639109352
+  y: 106.0
+  z: 833.5777001351187
+  yaw: -65.74285888671875
+  pitch: 4.9497551918029785

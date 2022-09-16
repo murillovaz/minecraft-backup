@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-09-16 03:27:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2022-09-13 02:47:25 +0000"
@@ -392,6 +398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-09-16 03:27:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2022-09-13 02:48:18 +0000"
@@ -431,6 +443,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-09-13 02:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-09-16 03:27:32 +0000"
     },
     "done": true
   },
@@ -485,6 +503,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2022-09-13 03:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-09-16 03:27:32 +0000"
     },
     "done": true
   },
@@ -857,7 +881,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2022-09-13 02:56:44 +0000",
+      "minecraft:spider": "2022-09-16 03:11:49 +0000",
       "minecraft:creeper": "2022-09-13 04:27:01 +0000",
+      "minecraft:witch": "2022-09-16 03:15:17 +0000",
       "minecraft:zombie": "2022-09-13 03:15:59 +0000"
     },
     "done": false
@@ -1240,6 +1266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2022-09-16 03:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2022-09-13 03:40:47 +0000"
@@ -1267,6 +1299,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2022-09-13 02:35:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-09-16 03:27:32 +0000"
     },
     "done": true
   },
@@ -1791,6 +1829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2022-09-16 03:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2022-09-13 02:47:25 +0000"
@@ -1884,6 +1928,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2022-09-13 03:40:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-09-16 03:27:32 +0000"
     },
     "done": true
   },

@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1663295281158
+  lastteleport: 1663298978044
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1663281475727
   login: 1663292854103
-money: '8020'
+money: '7780'
 last-account-name: Ziurch
 lastlocation:
-  world: a51be5d8-29dc-45b2-94f8-addeb169efd8
-  world-name: world_nether
-  x: 36.720976304512284
-  y: 85.0
-  z: 257.6704251702989
-  yaw: 9.926513671875
-  pitch: 2.8496782779693604
+  world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
+  world-name: world
+  x: -477.2425876199375
+  y: 70.0
+  z: 71.32659640724962
+  yaw: -119.4346923828125
+  pitch: 47.70073699951172
 homes:
   home:
     world: 52a07a91-a5cc-4b3e-887d-5e5db6d894f1
